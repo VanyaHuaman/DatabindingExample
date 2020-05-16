@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBindingExample</string>
+    <string name="click_to_launch_toast">Click To Launch Toast</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="groupie_fragment">Groupie Fragment</string>
+</resources>
